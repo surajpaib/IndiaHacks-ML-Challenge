@@ -44,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/scripts/predict_hotstar_segment.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="4" />
+              <selected id="9" />
             </state>
           </provider>
         </entry>
@@ -52,7 +52,7 @@
       <file leaf-file-name="modules_hotstar.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/modules_hotstar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
+            <state relative-caret-position="576">
               <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -64,7 +64,7 @@
       <file leaf-file-name="modules_road_sign.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/modules_road_sign.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
+            <state relative-caret-position="-490">
               <caret line="47" column="40" lean-forward="true" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
               <folding />
             </state>
@@ -105,8 +105,8 @@
         <option value="$PROJECT_DIR$/create_zip.sh" />
         <option value="$PROJECT_DIR$/scripts/predict_road_sign.ipynb" />
         <option value="$PROJECT_DIR$/lib/modules_road_sign.py" />
-        <option value="$PROJECT_DIR$/scripts/predict_hotstar_segment.ipynb" />
         <option value="$PROJECT_DIR$/lib/modules_hotstar.py" />
+        <option value="$PROJECT_DIR$/scripts/predict_hotstar_segment.ipynb" />
       </list>
     </option>
   </component>
@@ -718,17 +718,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/modules_road_sign.py">
+    <entry file="file://$PROJECT_DIR$/submissions/hotstarsub.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="47" column="40" lean-forward="true" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/modules_hotstar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
+        <state relative-caret-position="576">
           <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -736,10 +736,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/modules_road_sign.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-490">
+          <caret line="47" column="40" lean-forward="true" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/predict_hotstar_segment.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="4" />
+          <selected id="9" />
         </state>
       </provider>
     </entry>

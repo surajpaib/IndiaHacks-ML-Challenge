@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a6788fb-1c52-4f14-bc49-e91519b1f049" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/predict_hotstar_segment.ipynb" afterPath="$PROJECT_DIR$/scripts/predict_hotstar_segment.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/scripts/predict_hotstar_segment.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="18" />
+              <selected id="20" />
             </state>
           </provider>
         </entry>
@@ -764,7 +763,7 @@
     <entry file="file://$PROJECT_DIR$/scripts/predict_hotstar_segment.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="18" />
+          <selected id="20" />
         </state>
       </provider>
     </entry>
